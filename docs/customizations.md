@@ -14,7 +14,7 @@ Check it out in this [sample deployment](https://hbd-card.netlify.app/) to see t
 
    Here is a sample for you - https://telegra.ph/Bday-07-24.
 
-2. Copy the url of the published article. In my case, it is this `https://telegra.ph/Bday-07-24`.
+2. Copy the url of the published article. In my case, it is this `https://telegra.ph/Happy-Birthday-Buddy-10-02`.
 
 3. Add `SCROLL_MSG` environment variable to your deployed site with the above url as its value.
 
